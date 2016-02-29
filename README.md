@@ -1,4 +1,4 @@
 # Qt-Clipper
-Qt Clipper
 
-A simple clipbard manager application.
+
+Qt Clipper is a simple clipbard manager application.
